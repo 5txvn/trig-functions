@@ -4,3 +4,6 @@
 
 **Arcsine**
 
+> Example - Find the arcsine of 1 (should return 1.570...)
+
+`
