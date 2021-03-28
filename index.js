@@ -1,0 +1,65 @@
+exports.av = (number) => Math.abs(number)
+exports.abs = (number) => Math.abs(number)
+exports.absval = (number) => Math.abs(number)
+exports.absolutevalue = (number) => Math.abs(number)
+exports.absolute_value = (number) => Math.abs(number)
+
+exports.acos = (number) => Math.acos(number)
+exports.ac = (number) => Math.acos(number)
+exports.arccosine = (number) => Math.acos(number)
+exports.arc_cosine = (number) => Math.acos(number)
+
+exports.acosh = (number) => Math.acosh(number)
+exports.hac = (number) => Math.acosh(number)
+exports.hyperbolicarccosine = (number) => Math.acosh(number)
+exports.hyperbolic_arccosine = (number) => Math.acosh(number)
+exports.hyperbolic_arc_cosine = (number) => Math.acosh(number)
+
+exports.asin = (number) => Math.asin(number)
+exports.as = (number) => Math.asin(number)
+exports.arcsine = (number) => Math.asin(number)
+exports.arc_sine = (number) => Math.asin(number)
+
+exports.asinh = (number) => Math.asinh(number)
+exports.has = (number) => Math.asinh(number)
+exports.hyperbolicarcsine = (number) => Math.asinh(number)
+exports.hyperbolic_arcsine = (number) => Math.asinh(number)
+exports.hyperbolic_arc_sine = (number) => Math.asinh(number)
+
+exports.atan = (number) => Math.atan(number)
+exports.at = (number) => Math.atan(number)
+exports.arctangent = (number) => Math.atan(number)
+exports.arc_tangent = (number) => Math.atan(number)
+
+exports.atanh = (number) => Math.atanh(number)
+exports.hat = (number) => Math.atanh(number)
+exports.hyperbolicarctangent = (number) => Math.atanh(number)
+exports.hyperbolic_arctangent = (number) => Math.atanh(number)
+exports.hyperbolic_arc_tangent = (number) => Math.atanh(number)
+
+exports.cos = (number) => Math.cos(number)
+exports.c = (number) => Math.cos(number)
+exports.cosine = (number) => Math.cos(number)
+
+exports.cosh = (number) => Math.cosh(number)
+exports.hc = (number) => Math.cosh(number)
+exports.hyperboliccosine = (number) => Math.cosh(number)
+exports.hyperbolic_cosine = (number) => Math.cosh(number)
+
+exports.sin = (number) => Math.sin(number)
+exports.s = (number) => Math.sin(number)
+exports.sine = (number) => Math.sin(number)
+
+exports.sinh = (number) => Math.sinh(number)
+exports.hs = (number) => Math.sinh(number)
+exports.hyperbolicsine = (number) => Math.sinh(number)
+exports.hyperbolic_sine = (number) => Math.sinh(number)
+
+exports.tan = (number) => Math.tan(number)
+exports.t = (number) => Math.tan(number)
+exports.tangent = (number) => Math.tan(number)
+
+exports.tanh = (number) => Math.tanh(number)
+exports.ht = (number) => Math.tanh(number)
+exports.hyperbolictangent = (number) => Math.tanh(number)
+exports.hyperbolic_tangent = (number) => Math.tanh(number)

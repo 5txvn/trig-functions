@@ -1,0 +1,20 @@
+{
+  "name": "trig-functions",
+  "version": "1.0.0",
+  "description": "Basic trigonometry functions",
+  "main": "index.js",
+  "keywords": ["trigonometry", "arcsine", "hyperbolic arcsine", "arccosine", "hyperbolic arccosine", "arctangent", "hyperbolic arctangent", "sine", "hyperbolic sine", "cosine", "hyperbolic cosine", "tangent", "hyperbolic tangent"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exoticchild/trig-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exoticchild/trig-functions/issues"
+  },
+  "homepage": "https://github.com/exoticchild/trig-functions#readme"
+}
